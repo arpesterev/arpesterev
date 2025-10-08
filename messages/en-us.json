@@ -10,7 +10,7 @@
     "name": "I am Artyom",
 
     "shortDescription": "Lead Fullstack Developer. I love tackling complex problems, writing scientific articles and developing production-grade software.",
-    "description": "Let me introduce myself — I’m a developer of, for lack of a better word, “everything”. I’ve built just about anything that caught my interest: C++ programs for both servers and high-performance computing; backend systems in Java — my favorite language — including some of the most complex integrations with legacy SOAP systems. In Python, I implemented both the model and backend for financial data recognition, and to top it off, deployed it all using Triton Inference Server. In TypeScript, I developed a flexible analytics project using amCharts. In short, I’ve been involved in quite a lot — and I’ll share more details below. The entries in the Experience section are clickable, as are the company names.",
+    "description": "Let me introduce myself — I’m a developer of, for lack of a better word, “everything”. I’ve built just about anything that caught my interest: C++ programs for both servers and high-performance computing; backend systems in Java — my favorite language — including some of the most complex integrations with legacy SOAP systems. In Python, I implemented both the model and backend for financial data recognition, and to top it off, deployed it all using Triton Inference Server. In TypeScript, I developed a flexible analytics project using amCharts. In short, I’ve been involved in quite a lot — and I’ll share more details below. [**The entries in the Experience section are expandable, as are the company names, leading to their sites.**]",
 
     "about": "About Me",
     "experience": "Experience",
