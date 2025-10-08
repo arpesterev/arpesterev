@@ -3,7 +3,8 @@
     "title": "page_meta"
   },
   "Manifest": {
-    "name": "Application Manifest"
+    "name": "ARP Site",
+    "description": "Artyom Romanovich Pesterev's own site"
   },
   "Main": {
     "me": "Hi everyone",
