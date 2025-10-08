@@ -1,0 +1,49 @@
+{
+  "Metadata": {
+    "title": "page_meta"
+  },
+  "Manifest": {
+    "name": "Application Manifest"
+  },
+  "Main": {
+    "me": "Hi everyone",
+    "name": "I am Artyom",
+
+    "shortDescription": "Lead Fullstack Developer. I love tackling complex problems, writing scientific articles and developing production-grade software.",
+    "description": "Let me introduce myself — I'm a developer of, for lack of a better word, \"everything\". I’ve built just about anything I set my mind to: C++ software for both servers and high-performance computing, complex backend systems in Java (my favorite language), including deep integrations with legacy SOAP services. In Python, I implemented both the model and backend for financial data recognition and deployed it using Triton Inference Server. In TypeScript, I built a flexible analytics platform using amCharts. In short — I’ve been busy with a lot of cool things.",
+
+    "about": "About Me",
+    "experience": "Experience",
+    "educationSection": "Education",
+    "skills": "Skills",
+    "publicActivities": "Public Activities",
+    "quickPublicActivitiesInfo": "(Desire + Opportunity + Effort) × Time = Achievement",
+
+    "contact": "Contact",
+    "getInTouch": "Get in Touch",
+    "contactDescription": "Open to conversations on a wide range of topics. I will consider business proposals as well as research collaborations in the fields of hydrogas dynamics and mechanics.",
+
+    "workCompany1": "LLC \"Elfin\"",
+    "workHref1": "https://elfin.tech/",
+    "workLocation1": "Moscow, Hybrid",
+    "workTitle1": "Lead Process Applications Developer",
+    "workLogoUrl1": "/elfin.png",
+    "workStart1": "February 2024",
+    "workEnd1": "Present",
+    "workDescription1": "__**Responsibilities**__  \nDevelop and maintain the server-side of applications  \nWrite service launch instructions and internal documentation  \nMaintain the platform and investigate incidents  \nBuild fault-tolerant systems and write unit tests (JUnit, Mockito)  \nDesign DMN and BPMN flows based on business analyst requirements  \n\n__**Achievements**__  \nIntegrated with external banking systems (SOAP, REST), NBKI, and FNS  \nPerformed a major refactor — migrated core logic from Groovy to Kotlin  \nBuilt a financial reporting OCR service (forms 1–6) from scratch  \nTrained and optimized a neural network for Triton Inference Server — achieving a 4× speedup, better throughput, and improved stability  \nIntegrated the OCR service into the existing platform  \n\n__**Tech Stack**__  \n**Backend:** Spring Boot (Data, Cloud, Security, MVC, WebFlux), Elasticsearch v5, PostgreSQL 11+, Java 11/15/17, Groovy, Kotlin, Keycloak, ELK, Kafka, Yarg  \n**AI Backend:** Python 3.10, Uv, Numba, OpenCV, Pypdfium, PyTorch 2.7.0, FastAPI + Triton Inference Server",
+    "workCompany2": "LLC \"Council Service\"",
+    "workHref2": "https://council.ru/",
+    "workLocation2": "Moscow, Office",
+    "workTitle2": "Software Developer",
+    "workLogoUrl2": "/council.png",
+    "workStart2": "April 2022",
+    "workEnd2": "February 2024",
+    "workDescription2": "__**Responsibilities**__  \nSupport the RentRabbit platform and implement new features  \nDevelop internal libraries and write documentation  \nAnalyze and resolve incidents  \n\n__**Achievements**__  \nBuilt a flexible analytics system and charting engine for platform data  \nCreated a robust data preparation layer for charts and Word reports  \nIntegrated the analytics system into the platform — enabling customized reporting and visualization  \nSupported the external obligations tracking system for landlords  \nParticipated in technical analysis and implementation planning  \n\n__**Tech Stack**__  \n**Backend:** Spring Boot (Data, Security, MVC), Elasticsearch v8, PostgreSQL 11+, Java 11/17, Keycloak, ELK, RabbitMQ, docx4j, Apache POI, JasperReports, JAXB  \n**Frontend:** TypeScript 4, amCharts 5, Ant Design v3",
+
+    "educationSchool1": "Moscow State University of Civil Engineering (National Research University)",
+    "educationResult1": "Bachelor’s Degree ✅",
+
+    "educationSchool2": "IT School Samsung",
+    "educationResult2": "Diploma with Honors (Gold Diploma)"
+  }
+}
